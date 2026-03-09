@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+segmentation-models-pytorch
+albumentations
+opencv-python
+scipy
+Pillow
+numpy
+matplotlib
